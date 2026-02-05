@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#FFF3E0"/>
+  <text x="50%" y="35%" text-anchor="middle" font-size="24" fill="#E65100" font-weight="bold">The cat</text>
+  <text x="50%" y="55%" text-anchor="middle" font-size="24" fill="#E65100" font-weight="bold">sat on</text>
+  <text x="50%" y="75%" text-anchor="middle" font-size="24" fill="#E65100" font-weight="bold">the mat.</text>
+  <rect x="20" y="140" width="160" height="3" fill="#FF9800"/>
+</svg>

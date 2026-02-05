@@ -1,0 +1,8 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#E8F5E9"/>
+  <text x="50%" y="25%" text-anchor="middle" font-size="36" fill="#2E7D32" font-weight="bold">📖</text>
+  <rect x="30" y="60" width="140" height="10" fill="#4CAF50" rx="5"/>
+  <rect x="30" y="85" width="140" height="10" fill="#66BB6A" rx="5"/>
+  <rect x="30" y="110" width="140" height="10" fill="#81C784" rx="5"/>
+  <text x="50%" y="90%" text-anchor="middle" font-size="20" fill="#2E7D32">Story Time!</text>
+</svg>

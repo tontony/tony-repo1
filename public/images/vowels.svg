@@ -1,0 +1,8 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#E3F2FD"/>
+  <text x="50%" y="30%" text-anchor="middle" font-size="60" fill="#1976D2" font-weight="bold">A E I</text>
+  <text x="50%" y="60%" text-anchor="middle" font-size="60" fill="#1976D2" font-weight="bold">O U</text>
+  <circle cx="40" cy="160" r="20" fill="#FFC107"/>
+  <circle cx="100" cy="160" r="20" fill="#4CAF50"/>
+  <circle cx="160" cy="160" r="20" fill="#F44336"/>
+</svg>
