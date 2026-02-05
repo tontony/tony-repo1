@@ -1,0 +1,16 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFFF00;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="#FFF9C4"/>
+  <text x="50%" y="30%" text-anchor="middle" font-size="32" fill="url(#rainbow)" font-weight="bold">BIG</text>
+  <text x="50%" y="50%" text-anchor="middle" font-size="20" fill="url(#rainbow)">small</text>
+  <text x="50%" y="70%" text-anchor="middle" font-size="28" fill="url(#rainbow)" font-style="italic">Happy</text>
+  <text x="50%" y="90%" text-anchor="middle" font-size="24" fill="url(#rainbow)">Colorful!</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#FCE4EC"/>
+  <text x="50%" y="25%" text-anchor="middle" font-size="36" fill="#C2185B">✨</text>
+  <text x="50%" y="45%" text-anchor="middle" font-size="20" fill="#880E4F" font-style="italic">Roses are red,</text>
+  <text x="50%" y="60%" text-anchor="middle" font-size="20" fill="#880E4F" font-style="italic">Violets are blue,</text>
+  <text x="50%" y="75%" text-anchor="middle" font-size="20" fill="#880E4F" font-style="italic">Poetry is fun,</text>
+  <text x="50%" y="90%" text-anchor="middle" font-size="20" fill="#880E4F" font-style="italic">And so are you!</text>
+</svg>
